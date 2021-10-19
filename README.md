@@ -11,4 +11,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=branchyz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="Branchyz" data-color="#000000" data-emoji=""  data-font="Lato" data-text="Buy me a coffee!" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+<a href="https://www.buymeacoffee.com/branchyz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="41" width="174"></a>
