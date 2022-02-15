@@ -1,7 +1,9 @@
 <h1 align="left">Hey 👋, I'm Branchyz</h1>
-<h3 align="left">A still learning developer from the Netherlands</h3>
+<h3 align="left">A still learning developer from The Netherlands</h3>
 
-<h4 align="left">💬 - I mostly work on games with Unity!<?h4>
+<h4 align="left">💬 - I'm probably working on some java project.!<?h4>
+
+<h4 align="left">Note: Almost all my repositories are private.<?h4>
 
 <h4 align="left"><a href="https://discord.com/users/569109259099308032"> 📫 - Contact? Add my Discord!<a/><?h4>
 
