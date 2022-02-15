@@ -13,4 +13,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=branchyz&layout=compact)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-<a href="https://www.buymeacoffee.com/branchyz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" height="41" width="174"></a>
