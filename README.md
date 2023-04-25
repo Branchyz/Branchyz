@@ -1,1 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hey+%F0%9F%91%8B%2C+I'm+Branchyz!;Mainly+Java%2C+Js%2C+C%2C+C%2B%2B+%26+C%23+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Game+Development+%F0%9F%8E%AE;Contact%3F+Click+me!+%F0%9F%92%AC)](https://discord.com/users/569109259099308032)
+Entrepreneur
+
+https://discord.com/users/569109259099308032
